@@ -1,4 +1,4 @@
-$ git clone git@github.com:ifireiceya/MyFirstRepo.git
+$ git clone git@github.com:lanatorme/MyFirtsRepo.git
 Cloning into 'MyFirstRepo'...
 remote: Enumerating objects: 4, done.
 remote: Counting objects: 100% (4/4), done.
